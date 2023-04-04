@@ -1,0 +1,6 @@
+/* Add application styles & imports to this file! */
+* {
+  letter-spacing: 0.2px;
+  box-sizing: border-box;
+  font-family: 'Mulish, sans-serif';
+}
